@@ -7,13 +7,13 @@ Following the inception of the Ethereum world computer and smart contracts which
 | Attribute | Explanation |
 | - | - |
 | Summary |  |
-| Topics |  |
-| Audience |  |
-| Difficulty |  |
-| Strengths |  |
-| Weaknesses |  |
-| Dependencies |  |
-| Variants |  |
+| Topics | Truffle, Ganache, and Smart Contracts. |
+| Audience | CS1 or later. |
+| Difficulty | Beginner. |
+| Strengths | Constitutes a full development cycle. |
+| Weaknesses | Is just one of the ways to develop for Ethereum. |
+| Dependencies | Python, Node.js, Truffle, and Ganache. |
+| Variants | There are prior labs for installing Truffle and Ganache. |
 
 ## Assignment Instructions
 1. 
