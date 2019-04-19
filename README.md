@@ -6,7 +6,7 @@ Following the inception of the Ethereum world computer and smart contracts which
 ## Meta Information
 | Attribute | Explanation |
 | - | - |
-| Summary |  |
+| Summary | Hello-world exercise using Truffle and Ganache. |
 | Topics | Truffle, Ganache, and Smart Contracts. |
 | Audience | CS1 or later. |
 | Difficulty | Beginner. |
