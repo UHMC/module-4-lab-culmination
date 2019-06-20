@@ -52,6 +52,7 @@ Following the inception of the Ethereum world computer and smart contracts which
     * If you are on Windows, you will need to also edit the `truffle-config.js` file in the HelloEthereum directory. Specifically, find and uncomment the block beginning with `development: {` to declare the host and port for our blockchain. The port number should match the one shown by ganache-cli in the other terminal or command prompt, but it is most likely already correct with a value of 8545.
 7. Deploy. In the terminal or command prompt, run the following command:
     * truffle migrate
+8. Observe the results of your deployed contract in both terminals.
 
 ## Credits
 Dr. Debasis Bhattacharya  
