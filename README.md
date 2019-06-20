@@ -15,7 +15,7 @@ Following the inception of the Ethereum world computer and smart contracts which
 | Dependencies | Python, Node.js, Truffle, and Ganache. |
 | Variants | There are prior labs for installing Truffle and Ganache. |
 
-## Assignment Instructions
+## Assignment Instructions (15 Minutes)
 1. Install the command-line version of Ganache.
     * In a terminal or command prompt, run: npm install -g ganache-cli
 2. Let Ganache run in its own terminal while we move on to begin development.
